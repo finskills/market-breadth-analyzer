@@ -20,9 +20,11 @@
 
 ## Install
 
-```bash
-npx skills add https://github.com/finskills/market-breadth-analyzer --skill market-breadth-analyzer
-```
+Add this skill via [ClawHub](https://clawhub.ai/finskills/market-breadth-analyzer):
+
+1. Visit **[https://clawhub.ai/finskills/market-breadth-analyzer](https://clawhub.ai/finskills/market-breadth-analyzer)**
+2. Click **Download zip** and follow the setup instructions
+3. Set your API key: `FINSKILLS_API_KEY=your_key_here`
 
 ## Quick Start
 
