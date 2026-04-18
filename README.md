@@ -21,7 +21,7 @@
 ## Install
 
 ```bash
-npx skills add https://github.com/your-org/finskills-skills --skill market-breadth-analyzer
+npx skills add https://github.com/finskills/market-breadth-analyzer --skill market-breadth-analyzer
 ```
 
 ## Quick Start
@@ -58,7 +58,7 @@ Claude: [Fetches breadth data, calculates ADR, % above MAs, new highs/lows, outp
 
 ## Requirements
 
-- **Finskills API Key** ([register here](https://finskills.net)): [Register at finskills.net](https://finskills.net) (free tier available) — **all endpoints are free tier**
+- **Finskills API Key**: [Register at finskills.net](https://finskills.net) (free tier available) — **all endpoints are free tier**
 - **Claude** with skill support
 
 ## License
