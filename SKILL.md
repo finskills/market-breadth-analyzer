@@ -1,14 +1,15 @@
 ---
 name: Market Breadth Analyzer
-version: 1.0.1
+version: 1.0.2
 description: "Measure US equity market breadth using advance/decline lines, percentage of stocks above moving averages, and new highs/lows via the Finskills API."
 author: finskills
-homepage: https://github.com/finskills/market-breadth-analyzer
-credentials:
-  - name: FINSKILLS_API_KEY
-    description: "Finskills API key — register for free at https://finskills.net (free tier sufficient for all endpoints used in this skill)"
-    required: true
-    link: https://finskills.net
+metadata:
+  openclaw:
+    requires:
+      env:
+        - FINSKILLS_API_KEY
+    primaryEnv: FINSKILLS_API_KEY
+  homepage: https://github.com/finskills/market-breadth-analyzer
 ---
 
 # Market Breadth Analyzer
