@@ -1,5 +1,5 @@
 ---
-name: Market Breadth Analyzer
+name: market-breadth-analyzer
 version: 1.0.2
 description: "Measure US equity market breadth using advance/decline lines, percentage of stocks above moving averages, and new highs/lows via the Finskills API."
 author: finskills
